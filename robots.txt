@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://udohtiejuh.rpa.icu/sitemap.xml
